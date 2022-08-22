@@ -1,0 +1,17 @@
+Variables
+R= imaginemos que es una caja y tu le pones el nombre de lo que vas a guardar, y dentro de ella le ingresas datos
+
+Strigs
+R= son cualquier cadena de carcacteres que esten en comillas
+
+Funciones (argumentos, return)
+R=es una forma de agrupar algo que luego quieras repetir el numero de veces necesarias sin la necesidad de volver 
+a escribir todo desde 0 y las variables (cajas) que creas dentro de estas no funcionaran si no invocas la funcion,
+
+
+Declaraciones if
+R=
+
+Valores booleanos (true, false)
+R=
+
