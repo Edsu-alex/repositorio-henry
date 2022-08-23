@@ -10,8 +10,9 @@ a escribir todo desde 0 y las variables (cajas) que creas dentro de estas no fun
 
 
 Declaraciones if
-R=
+R= Sirve para que se haga algo solo si se cumple una condicion si no se cumple se ejecuta otra cosa, es como si limpias tu cuarto te doy un dulce si no te voy a castigar 
 
 Valores booleanos (true, false)
-R=
+R= son los valores donde solo existen dos resultados si o no, verdadero o falso
+
 
